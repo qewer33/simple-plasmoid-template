@@ -12,7 +12,7 @@ ConfigModel {
     id: configModel
 
     ConfigCategory {
-         name: i18n("general")
+         name: i18n("General")
          icon: "preferences"
          source: "config/configGeneral.qml"
     }
