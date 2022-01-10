@@ -1,5 +1,5 @@
 /*
-    SPDX-FileCopyrightText: 2021 author-name
+    SPDX-FileCopyrightText: 2022 author-name
     SPDX-License-Identifier: GPL-3.0-or-later
 */
 
